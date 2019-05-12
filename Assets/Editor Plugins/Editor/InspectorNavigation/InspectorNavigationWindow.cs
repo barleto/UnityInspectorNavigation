@@ -5,7 +5,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityToolbarExtender;
 
-namespace UnityInspectornavigation
+namespace InspectorNavigationToolbar
 {
     [InitializeOnLoad]
     public static class InspectorNavigationToolbarButton
